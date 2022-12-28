@@ -9,6 +9,8 @@ Javascript developer premirily focusing on vanilla javascript implementations(ak
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [evangeloskolimitras@outlook.com](mailto:evangeloskolimitras@outlook.com)
 *   ⚡  No frameworks allowed
+
+
 <a href="https://www.github.com/EvangelosKolimitras" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/EvangelosKolimitras?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
